@@ -2,14 +2,13 @@
 ### icon-delivery.svg
 [![N|Solid](http://veneto.super.perevorot.com/html/app/assets/pictures/icon-delivery.svg)](http://veneto.super.perevorot.com/html/app/assets/pictures/icon-delivery.svg)
 #### Usage code
-```
+``` html
 <svg class="icon-663500ac">
  <use xlink:href="#icon-663500ac" xmlns:xlink="http://www.w3.org/1999/xlink"></use>
 </svg>
 ```
 #### Symbol
-```
-<!-- Embeded svg sprite reference -->
+``` html
 <svg display="none" xmlns="http://www.w3.org/2000/svg">
  <symbol id="icon-663500ac" viewBox="0 0 88 70" >
  <g fill="none" fill-rule="evenodd">
