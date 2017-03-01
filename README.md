@@ -9,4 +9,9 @@
 ### icon-advise.svg
 [![N|Solid](http://veneto.super.perevorot.com/html/app/assets/pictures/icon-advise.svg)](https://github.com/doriksan/veneto_icons/blob/master/icon-advise.md)
 
+### icon-discount.svg
+[![N|Solid](http://veneto.super.perevorot.com/html/app/assets/pictures/icon-discount.svg)](https://github.com/doriksan/veneto_icons/blob/master/icon-discount.md)
+
+
+
 
