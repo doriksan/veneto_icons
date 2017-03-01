@@ -6,3 +6,7 @@
 ### icon-garanty.svg
 [![N|Solid](http://veneto.super.perevorot.com/html/app/assets/pictures/icon-garanty.svg)](https://github.com/doriksan/veneto_icons/blob/master/icon-garanty.md)
 
+### icon-advise.svg
+[![N|Solid](http://veneto.super.perevorot.com/html/app/assets/pictures/icon-advise.svg)](https://github.com/doriksan/veneto_icons/blob/master/icon-advise.md)
+
+
