@@ -1,5 +1,5 @@
 ### icon-garanty.svg
-[![N|Solid](http://veneto.super.perevorot.com/html/app/assets/pictures/icon-delivery.svg)](http://veneto.super.perevorot.com/html/app/assets/pictures/icon-delivery.svg)
+[![N|Solid](http://veneto.super.perevorot.com/html/app/assets/pictures/icon-garanty.svg)](http://veneto.super.perevorot.com/html/app/assets/pictures/icon-garanty.svg)
 #### Usage code
 ``` html
 <svg class="icon-2a660bfb">
