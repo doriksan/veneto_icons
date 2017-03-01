@@ -1,6 +1,6 @@
 # Veneto icons
 ### icon-delivery.svg
-[![N|Solid](http://veneto.super.perevorot.com/html/app/assets/pictures/icon-delivery.svg)](http://veneto.super.perevorot.com/html/app/assets/pictures/icon-delivery.svg)
+[![N|Solid](https://github.com/doriksan/veneto_icons/blob/master/icon-delivery.md)](http://veneto.super.perevorot.com/html/app/assets/pictures/icon-delivery.svg)
 #### Usage code
 ``` html
 <svg class="icon-663500ac">
